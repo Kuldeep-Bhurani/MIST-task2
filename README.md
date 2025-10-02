@@ -4,4 +4,4 @@ This repo deals with the 2nd task of Manipal Information & Security Team WebDev 
 
 ## wearemist clone
 
-Deployed on [GitHub Pages]()
+Deployed on [GitHub Pages](https://kuldeep-bhurani.github.io/MIST-task2/)
